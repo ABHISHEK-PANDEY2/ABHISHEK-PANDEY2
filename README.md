@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I'm a Full-Stack web developer<br>👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently working on React.js<br>💬 Ask me about MERN
+🔭 I'm a Full-Stack web developer<br>👯 I’m looking to collaborate on Full Stack projects<br>🌱 I’m currently working on GenAI and GoLang<br>💬 Ask me about MERN, GenAI
 
 
 ## 🌐 Socials:
